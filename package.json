@@ -2,7 +2,7 @@
   "name": "badbug",
   "version": "1.1.1",
   "displayName": "BADBUG Theme",
-  "description": "🔥 A collection of beautifully crafted modern themes 🎨 + 👌",
+  "description": "🔥 A collection of beautifully crafted modern themes for VSCode. 🎨 + 👌",
   "publisher": "1MANDEV",
   "author": {
     "name": "Md. Shahriar Parvez",
@@ -63,7 +63,7 @@
       }
     ]
   },
-  "dependencies": {
+  "devDependencies": {
     "nodemon": "^1.12.0",
     "vsce": "^1.30.0"
   }
