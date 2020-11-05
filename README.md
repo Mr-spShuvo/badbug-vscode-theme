@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/icon.png" width="20%">
+  <img src="images/icon.png" width="15%">
 </div>
 
 <h1 align="center">
@@ -92,4 +92,4 @@ Settings - I'm using for my ultimate vs code setup.
   "bracket-pair-colorizer-2.showVerticalScopeLine": false,
 ```
 
-> These are my favorite themes and over the last few months I tweaked these themes and add my own spins. The original themes can be found here: [LevelUp]('https://marketplace.visualstudio.com/items?itemName=leveluptutorials.theme-levelup') (Elegant), [Pitch Black Theme](https://marketplace.visualstudio.com/items?itemName=viktorqvarfordt.vscode-pitch-black-theme) (Black), [Just Black](https://marketplace.visualstudio.com/items?itemName=nur.just-black) (Retro), and [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) (Dracula).
+> These are my favorite themes and over the last few months I tweaked these themes and add my own spins. The original themes can be found here: [LevelUp Theme]('https://marketplace.visualstudio.com/items?itemName=leveluptutorials.theme-levelup') (Elegant), [Pitch Black Theme](https://marketplace.visualstudio.com/items?itemName=viktorqvarfordt.vscode-pitch-black-theme) (Black), [Just Black](https://marketplace.visualstudio.com/items?itemName=nur.just-black) (Retro), and [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) (Dracula).
