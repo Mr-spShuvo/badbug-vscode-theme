@@ -1,0 +1,70 @@
+{
+  "name": "badbug",
+  "version": "1.1.1",
+  "displayName": "BADBUG Theme",
+  "description": "🔥 A collection of beautifully crafted modern themes 🎨 + 👌",
+  "publisher": "1MANDEV",
+  "author": {
+    "name": "Md. Shahriar Parvez",
+    "url": "https://spshuvo.com"
+  },
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mr-spShuvo/badbug-vscode-theme.git"
+  },
+  "galleryBanner": {
+    "color": "#524763",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "VSCode",
+    "Themes",
+    "Black theme",
+    "Dark theme",
+    "Material",
+    "Default Dark",
+    "Retro",
+    "LevelUp",
+    "Dracula",
+    "Pure Black",
+    "Best theme"
+  ],
+  "engines": {
+    "vscode": "^1.15.0"
+  },
+  "scripts": {
+    "start": "nodemon --exec vsce package"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "BADBUG - Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/black.json"
+      },
+      {
+        "label": "BADBUG - Dracula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dracula.json"
+      },
+      {
+        "label": "BADBUG - Elegant",
+        "uiTheme": "vs-dark",
+        "path": "./themes/elegant.json"
+      },
+      {
+        "label": "BADBUG - Retro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/retro.json"
+      }
+    ]
+  },
+  "dependencies": {
+    "nodemon": "^1.12.0",
+    "vsce": "^1.30.0"
+  }
+}
